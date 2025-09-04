@@ -1,0 +1,65 @@
+/* ===========================
+  ========== HOME ===========
+  =========================== */
+
+/* Sidebar background color */
+section[data-testid="stSidebar"] {
+  background-color: #001e52 !important;
+  padding: 1.5rem 1rem;
+}
+
+/* Sidebar title and header text styling */
+section[data-testid="stSidebar"] .css-1v3fvcr,
+section[data-testid="stSidebar"] .css-10trblm {
+  color: #f4e7e1 !important;
+  font-size: 18px !important;
+  font-weight: bold !important;
+}
+
+/* Sidebar selectbox label styling */
+label.css-1cpxqw2 {
+  color: #f4e7e1 !important;
+  font-size: 16px !important;
+  margin-bottom: 0.5rem !important;
+}
+
+/* Dropdown options inside sidebar */
+div[role="listbox"] div[role="option"] {
+  color: #f4e7e1 !important;
+  background-color: #065084 !important;
+}
+
+/* Dropdown option hover and selected state */
+div[role="listbox"] div[role="option"]:hover,
+div[role="listbox"] div[role="option"][aria-selected="true"] {
+  background-color: #065084 !important;
+  color: #f4e7e1 !important;
+}
+
+/* Main page content area background and text color */
+.main {
+  background-color: #521c0d;
+  color: #f4e7e1;
+  padding: 2rem;
+}
+
+/* Main page title styling */
+.title {
+  font-size: 32px;
+  font-weight: bold;
+  color: #f4e7e1;
+}
+
+/* Main background */
+.stApp {
+  background: #065084 !important;
+}
+.stApp > header {
+  background: #065084 !important;
+}
+.stAppHeader {
+  background: #065084 !important;
+}
+.stAppToolbar {
+  background: #065084 !important;
+}
