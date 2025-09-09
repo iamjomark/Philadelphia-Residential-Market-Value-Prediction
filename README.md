@@ -1,4 +1,4 @@
-# Housing Valuation Machine Learning Model - Philadelphia Housing Crisis
+# Toward Smarter Valuation: A Machine Learning Approach to Residential Property Mass Appraisal in Philadelphia
 
 ## Executive Summary
 
