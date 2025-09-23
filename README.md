@@ -4,7 +4,7 @@
 
 Philadelphia is facing a **severe housing crisis** marked by a shortage of affordable housing, rising rents, and **overvaluation of properties**. The **Office of Property Assessment (OPA)** currently uses outdated sales data and traditional statistical methods such as **Multiple Regression Analysis** for property valuations. These methods fail to capture **non-linear relationships** and struggle to keep up with rapidly changing market conditions, resulting in **mispricing** and ineffective housing policies.
 
-In response, the **Housing Association of Philadelphia (HAP)** implemented **machine learning (ML) models** using updated property data up to 2020 to enhance the **accuracy, fairness, and transparency** of property assessments.
+In response, the **Housing Association of Philadelphia (HAP)** implemented **machine learning (ML) models** using updated property data up to 2020 to enhance the **accuracy, fairness, and transparency** of property assessments. 
 
 ---
 
